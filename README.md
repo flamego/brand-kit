@@ -1,4 +1,4 @@
-# Falmego's brand kit
+# Falmego brand kit
 
 The brand kit of the Flamego project.
 
